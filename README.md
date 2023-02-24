@@ -2,7 +2,9 @@
 
 This project shows Cvid-19 cases by any country a user chose.
 
-Data are shown in the graph below
+Data are shown in the graph below.
+
+
 Website: <img width="770" alt="Screenshot 2023-02-24 at 1 41 03 PM" src="https://user-images.githubusercontent.com/96458509/221264138-d1fc9361-787e-4256-92df-61e53471fde8.png">
 
 
