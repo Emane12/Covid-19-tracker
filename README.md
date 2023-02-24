@@ -1,12 +1,15 @@
+# Description
+
+This project shows Cvid-19 cases by any country a user chose.
+Data are shown in a graph below
+<img width="770" alt="Screenshot 2023-02-24 at 1 41 03 PM" src="https://user-images.githubusercontent.com/96458509/221264138-d1fc9361-787e-4256-92df-61e53471fde8.png">
+
+
+
 # graph:
 file:///Users/imane/Desktop/Screen%20Shot%202022-08-03%20at%209.46.14%20AM.png
 <img width="1010" alt="Screenshot 2023-02-24 at 1 38 29 PM" src="https://user-images.githubusercontent.com/96458509/221263466-6ee00f54-791e-4024-9878-664c10c091df.png">
 
-# Description
-
-
-This project shows Cvid-19 cases by countries.
-Data are shown in a graph
 
 
 This site allows the user to get information about covid-19 cases reports for each country
